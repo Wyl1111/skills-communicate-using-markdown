@@ -1,3 +1,5 @@
+title:"welcom to my wangye"
+data:2025/7/25
 #kukudewuyilong
 #![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 $git init
